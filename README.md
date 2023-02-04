@@ -1,5 +1,4 @@
 <p align="center"> 
-  Visitor count<br>
   <img src="https://media.giphy.com/media/donkKNKjxEFkk/giphy.gif" />
 </p>
 
